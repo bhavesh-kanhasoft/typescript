@@ -10,24 +10,24 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "apollo-server": "3.11.1",
-    "apollo-server-express": "3.11.1",
+    "apollo-server": "^3.11.1",
+    "apollo-server-express": "^3.11.1",
     "consolidate": "^0.16.0",
-    "dotenv": "16.0.3",
-    "express": "4.18.2",
-    "graphql": "15.8.0",
-    "mongoose": "6.7.2",
-    "reflect-metadata": "0.1.13",
-    "swig": "^1.4.2",
-    "type-graphql": "1.1.1"
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "graphql": "^15.8.0",
+    "mongoose": "^6.7.2",
+    "reflect-metadata": "^0.1.13",
+    "swig": "^0.14.0",
+    "type-graphql": "^1.1.1"
   },
   "devDependencies": {
-    "@types/express": "4.17.14",
-    "@types/node": "18.11.9",
-    "nodemon": "2.0.20",
-    "ts-node": "10.9.1",
-    "ts-node-dev": "2.0.0",
-    "tsconfig-paths": "4.1.0",
-    "typescript": "4.8.4"
+    "@types/express": "^4.17.14",
+    "@types/node": "^18.11.9",
+    "nodemon": "^2.0.20",
+    "ts-node": "^10.9.1",
+    "ts-node-dev": "^2.0.0",
+    "tsconfig-paths": "^4.1.0",
+    "typescript": "^4.8.4"
   }
 }
